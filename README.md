@@ -21,8 +21,8 @@ A clean and simple personal portfolio website for Rahul — built with **HTML** 
 | Type       | Link                                                                 |
 |------------|----------------------------------------------------------------------|
 | ✅ Live Site | [rahul-portfolio-2025](https://rahul46587.github.io/rahul-portfolio-2025/) |
-| 🧾 Resume     | Coming soon — Rahul_Resume.pdf will be added                      |
-| 📹 Loom Intro | Coming soon — personalized video intro for recruiters             |
+| 🧾 Resume     | Rahul_Resume.pdf                      |
+| 📹 Loom Intro | personalized video intro             |
 
 ---
 
@@ -50,5 +50,5 @@ Aspiring software developer and recent high school graduate with a love for tech
 
 ---
 
-## 🧠 Built With Love by Shruti 💋
+## 🧠 Built With Love by Rahul
 
