@@ -1,4 +1,4 @@
-# 🌟 Rahul's Developer Portfolio
+# 🌟 Rahul's Portfolio
 
 **Live Site:** [Click here to view it! 🚀](https://rahul46587.github.io/rahul-portfolio-2025/)
 
