@@ -8,11 +8,11 @@ A clean and simple personal portfolio website for Rahul — built with **HTML** 
 
 ## ✨ What's Included
 
-- 📄 About Me section
-- 🛠️ Projects with live links & GitHub links
-- 📞 Contact area
-- 💼 Resume (PDF placeholder included)
-- 🎥 Loom video (to be added)
+- 📄 About Me section  
+- 🛠️ Projects with live links & GitHub links  
+- 📞 Contact area  
+- 💼 Resume (PDF download)  
+- 📹 *Introductory video coming soon...*
 
 ---
 
@@ -21,8 +21,8 @@ A clean and simple personal portfolio website for Rahul — built with **HTML** 
 | Type       | Link                                                                 |
 |------------|----------------------------------------------------------------------|
 | ✅ Live Site | [rahul-portfolio-2025](https://rahul46587.github.io/rahul-portfolio-2025/) |
-| 🧾 Resume     | Rahul_Resume.pdf                      |
-| 📹 Loom Intro | personalized video intro             |
+| 🧾 Resume     | Rahul_Resume.pdf                                                   |
+| 📹 Loom Intro | *Coming soon*                                                     |
 
 ---
 
@@ -39,7 +39,7 @@ A clean and simple personal portfolio website for Rahul — built with **HTML** 
 
 - [ ] Mobile responsiveness  
 - [ ] Improved styling and animations  
-- [ ] Loom video + Resume integration  
+- [ ] Introductory Loom video  
 - [ ] Backend projects + JS interactivity  
 
 ---
